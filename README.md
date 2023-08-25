@@ -1,11 +1,13 @@
 # Kaggle_Learn
 
-This is a collection of my learn notebooks:
+This is a collection of my learn notebooks from _**kaggle.com**_:
 
- - theory and
- - exercises 
+ - practical lessons and
+ - exercises, done by myself.
 
 Learning fields are: 
-01.
-02.
-03. Feature Engineering
+
+ 1. Intro to Machine Learning *(Completed)*
+ 2. Intermediate Machine Learning *(Completed)*
+ 3. Deep Learning *(Completed)*
+ 4. Feature Engineering *(in progress)*
