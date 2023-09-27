@@ -10,4 +10,4 @@ Learning fields are:
  1. Intro to Machine Learning *(Completed)*
  2. Intermediate Machine Learning *(Completed)*
  3. Deep Learning *(Completed)*
- 4. Feature Engineering *(in progress)*
+ 4. Feature Engineering *(Completed)*
